@@ -1,0 +1,23 @@
+base_url = "https://simplesnap.de"
+title = "simplesnap.de"
+compile_sass = false
+build_search_index = true
+
+theme = "photography"
+
+[markdown]
+highlight_code = true
+
+[extra]
+copyright = "simplesnap.de"
+footer_links = [
+    {url = "https://github.com/arbs09/photography-theme", name = "Theme"},
+]
+nav_links = [
+    {url = "/posts", name = "Posts"},
+    {url = "/blog", name = "Blog"},
+]
+home_links = [
+    {url = "/posts", name = "Posts"},
+    {url = "/blog", name = "Blog"},
+]
