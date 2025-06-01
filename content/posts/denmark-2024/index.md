@@ -26,6 +26,8 @@ draft = false
 
 {{ img(img="/images/01.10.2024/boats_in_canal.jpg", date="01.10.2024", caption="some boats in a canal in Kopenhagen") }}
 
+{{ img(img="/images/01.10.2024/canal.jpg", date="01.10.2024", caption="a canal in Kopenhagen") }}
+
 {{ img(img="/images/01.10.2024/cristiansborg_palace.jpg", date="01.10.2024", caption="Christiansborg Palace") }}
 
 ## 02.10.2024
