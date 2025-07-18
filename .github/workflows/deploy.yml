@@ -12,7 +12,7 @@ jobs:
       - name: Checkout the current branch
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
 
       - name: Install Zola, and sshpass
         run: |
