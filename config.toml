@@ -13,7 +13,7 @@ highlight_code = true
 [extra]
 copyright = "simplesnap.de"
 footer_links = [
-    {url = "https://github.com/arbs09/photography-theme", name = "Theme"},
+    {url = "https://codeberg.org/arbs09/photography-theme", name = "Theme"},
 ]
 nav_links = [
     {url = "/posts", name = "Posts"},
