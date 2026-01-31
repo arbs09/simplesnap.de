@@ -24,3 +24,4 @@ home_links = [
     {url = "/blog", name = "Blog"},
 ]
 no_ai = true
+tracking_js = "<script defer src="https://analytics.getroot.eu/script.js" data-website-id="623ad390-6854-43a5-979f-849a077ef368" data-do-not-track="true"></script>"
